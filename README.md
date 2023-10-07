@@ -13,7 +13,8 @@ My primary research efforts have been devoted to developing fast algorithms. I h
 ### Tech/Skills
 **Competitive Programming**
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=gmgu)](https://solved.ac/gmgu)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmgu)](https://solved.ac/gmgu)
 
 **Programming Languages**
 - [C/C++](https://github.com/gmgu/GI), Python, [CUDA C++](https://github.com/gmgu/study-cuda), C#, Java, Shell Script, LaTeX
