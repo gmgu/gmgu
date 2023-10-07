@@ -23,3 +23,6 @@ My primary research efforts have been devoted to developing fast algorithms. I h
 
 **Others**
 - AWS (SageMaker, EC2, Lustre, S3)
+
+### CV
+[GeonmoGu_CV](https://github.com/gmgu/gmgu/blob/main/GeonmoGu_CV.pdf)
