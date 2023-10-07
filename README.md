@@ -7,7 +7,7 @@ My primary research efforts have been devoted to developing fast algorithms. I h
 - Apr. 2022 – Dec. 2022: Training a small language model (from scratch) for AI coding assistance using PyTorch. Web UI development using Python Streamlit. Inference server development for language models using Flask and ShannonAI/service-streamer.
 
 **Seoul National University – Institute of Computer Technology (Post-Doctoral Assistant)**
-- Jan. 2022 -- Mar. 2022: Algorithm development for graph isomorphism query processing (Efficient Graph Isomorphism Query Processing using Degree Sequences and Color-Label Distributions, IEEE ICDE 2022). 
+- Jan. 2022 – Mar. 2022: Algorithm development for graph isomorphism query processing (Efficient Graph Isomorphism Query Processing using Degree Sequences and Color-Label Distributions, IEEE ICDE 2022). 
 
 
 ### Tech/Skills
