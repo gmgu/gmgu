@@ -17,7 +17,7 @@ My primary research efforts have been devoted to developing fast algorithms. I h
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmgu)](https://solved.ac/gmgu)
 
 **Programming Languages**
-- [C/C++](https://github.com/gmgu/GI), Python, [CUDA C++](https://github.com/gmgu/study-cuda), C#, Java, Shell Script, LaTeX
+- [C/C++](https://github.com/gmgu/GI), Python, [CUDA C++](https://github.com/gmgu/study-cuda), [Rust](https://github.com/gmgu/study-rust), C#, Java, Shell Script, LaTeX
 
 **Libraries**
 - PyTorch, TensorFlow, [Triton (OpenAI)](https://github.com/gmgu/study-trident), Seaborn, Pandas, PySpark, HuggingFace Transformers, DeepSpeed, NVIDIA Triton, NVIDIA Faster Transformer, FastAPI, gtest
