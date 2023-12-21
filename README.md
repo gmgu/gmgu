@@ -3,7 +3,7 @@ My primary research efforts have been devoted to developing fast algorithms. I h
 
 ### Work Experience
 **LG Electronics - Artificial Intelligence Lab (Senior Researcher)**
-- Aug. 2022 – Present: Fine-tuning large language models (of size over 15 billion) for AI coding assistance using PyTorch FSDP and DeepSpeed (for full parameter fine-tuning), and LoRA (for parameter-efficient fine-tuning) on AWS SageMaker. Development of data augmentation techniques for causal language models. Inference server development for large language model using NVIDIA Triton, FastTransformer, and FastAPI. Inference optimization for transformer models using flash attention and paged attention.
+- Aug. 2022 – Present: Fine-tuning large language models for AI coding assistance using PyTorch FSDP and DeepSpeed (for full parameter fine-tuning), and LoRA (for parameter-efficient fine-tuning) on AWS SageMaker. Development of data augmentation techniques for causal language models. Inference server development for large language model using NVIDIA Triton, FastTransformer, and FastAPI. Inference optimization for transformer models using flash attention and paged attention.
 - Apr. 2022 – Dec. 2022: Training a small language model (from scratch) for AI coding assistance using PyTorch. Web UI development using Python Streamlit. Inference server development for language models using Flask and ShannonAI/service-streamer.
 
 **Seoul National University – Institute of Computer Technology (Post-Doctoral Assistant)**
