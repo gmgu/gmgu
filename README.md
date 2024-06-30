@@ -25,7 +25,7 @@
   - Developed a fast graph isomorphism query processing algorithm that runs orders of magnitude faster than state-of-the-art algorithms.
 
 **NAVER – AI Dev2 (Internship)**
-- Oct. 2021: Analyzing Conversion Tracking Data
+- Oct. 2021: **Analyzing Conversion Tracking Data**
   - Conducted exploratory data analysis on glad for advertisement data to find meaningful trends.
   - Handled hundred gigabytes of (raw) conversion tracking data.
   - Solved optimization problem of maximizing conversion rate using linear programming.
