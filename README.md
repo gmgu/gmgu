@@ -5,11 +5,11 @@
 
 ### Work Experience
 **LG Electronics - Artificial Intelligence Lab (Senior Researcher)**
-- Jan. 2024 - Present: **Development of AI Coding Assistant using Large Language Model**
-  - onducting research on continual pretraining code LLMs in data scarce scenario.
-  - Maintaining custom benchmark dataset for offline evaluation.
-  - Analyzing user statistics and feedback for online evaluation.
-  - Constructing instruction dataset and conducting instruction-tuning.
+- Jan. 2024 - Dec. 2024: **Development of AI Coding Assistant using Large Language Model**
+  - Conducted research on continual pretraining code LLMs in data scarce scenario.
+  - Maintained custom benchmark dataset for offline evaluation.
+  - Analyzed user statistics and feedback for online evaluation.
+  - Constructed instruction dataset and conducting instruction-tuning.
   - Prompt engineering for accurate code suggestion.
 - Aug. 2022 – Dec. 2023: **Development of AI Coding Assistant using Large Language Model**
   - Conducted distributed training of LLMs based on decoder-only transformer on AWS.
