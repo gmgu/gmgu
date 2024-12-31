@@ -20,7 +20,7 @@
   - Constructed training data for generating Python code from natural language instruction.
   - Trained an encoder-decoder transformer from scratch.
   - Developed a web client that inputs prompt, prints AI-generated code, and executes Python code.
-  - Created a inference server that runs on multiple GPUs, loads multiple copies of the model, and offers dynamic batching for increased throughput.
+  - Created an inference server that runs on multiple GPUs, loads multiple copies of the model, and offers dynamic batching for increased throughput.
 
 **Seoul National University – Institute of Computer Technology (Post-Doctoral Assistant)**
 - Sept. 2021 and Jan. 2022 – Mar. 2022: **Algorithm Development for Graph Isomorphism Query Processing**
