@@ -1,10 +1,13 @@
 ### Research Interests
-**Deep Learning**: AI Coding Assistant. Code LLM. Multi-Node Distributed Training. Parameter Efficient Fine-Tuning. Instruction Tuning. LLM Inference Server. Prompt Engineering. Benchmark Dataset. Data Collection and Cleaning. Time Series Forecasting. Semantic Parsing.
+**Humanoid AI**: Reinforcement Learning, Simulation to Reality, Inference Time Scaling, Post-Processing Action.
 
-**Algorithm Engineering**: Fast and Scalable Algorithms. Graph Isomorphism. Subgraph Matching. Multiple String Matching. Order-Preserving Matching. Cartesian Tree Matching.
+**Deep Learning**: AI Coding Assistant, Code LLM, Multi-Node Distributed Training, Parameter Efficient Fine-Tuning, Instruction Tuning, LLM Inference Server, Prompt Engineering, Benchmark Dataset, Data Collection and Cleaning, Time Series Forecasting, Semantic Parsing.
+
+**Algorithm Engineering**: Fast and Scalable Algorithms, Graph Isomorphism, Subgraph Matching, Multiple String Matching, Cartesian Tree Matching, Order-Preserving Matching, Traveling Salesman Problem, Approximating Polygons and Subdivisions with Minimum-Link Paths, Path Simplification.
 
 ### Work Experience
 **LG Electronics - Artificial Intelligence Lab (Senior Researcher)**
+- Jan. 2025 - Present: **Humanoid AI**
 - Jan. 2024 - Dec. 2024: **Development of AI Coding Assistant using Large Language Model**
   - Conducted research on continual pretraining code LLMs in data scarce scenario.
   - Maintained custom benchmark dataset for offline evaluation.
@@ -44,8 +47,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmgu)](https://solved.ac/gmgu)
 
-**Others**
-- AWS (SageMaker, EC2, Lustre, S3)
+**Framework**
+- AWS (SageMaker, EC2, Lustre, S3), Docker, ROS 2
 
 ### CV
 [GeonmoGu_CV](https://github.com/gmgu/gmgu/blob/main/GeonmoGu_CV.pdf)
